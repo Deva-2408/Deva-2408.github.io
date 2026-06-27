@@ -1,4 +1,4 @@
-# 🌐 https://deva-2408.github.io/
+# 🌐 [https://deva-2408.github.io/](https://deva-2408.github.io/Devkant-Portfolio/)
 
 Personal portfolio website built as a single HTML file.
 
